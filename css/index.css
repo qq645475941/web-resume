@@ -13,10 +13,12 @@ body {
     justify-content: center;
 }
 .flex-box .box-1 {
-    flex-grow: 1;
+    width: 40%;
+
 }
 .flex-box .box-3 {
-    flex-grow: 3;
+    width: 60%;
+
 }
 .resume-left {
     background-color: #1d365d;
